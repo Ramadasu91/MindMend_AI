@@ -1,0 +1,12 @@
+prefix=c:/Users/Ramtej/OneDrive/Desktop/MindMendAI/venv/Library
+exec_prefix=c:/Users/Ramtej/OneDrive/Desktop/MindMendAI/venv/Library
+libdir=c:/Users/Ramtej/OneDrive/Desktop/MindMendAI/venv/Library/lib
+includedir=c:/Users/Ramtej/OneDrive/Desktop/MindMendAI/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

@@ -1,0 +1,10 @@
+sentence-transformers
+streamlit
+google-generativeai
+python-dotenv
+transformers 
+torch 
+librosa
+streamlit-audiorec
+requests
+Flask
